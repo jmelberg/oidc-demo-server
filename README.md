@@ -11,5 +11,4 @@ pip install requests
   ```
   python manage.py runserver
   ```
-  - Adjust the `apiEndpoint` in `Models.swift` to point to your server
-  - Replace existing user photos in the directory ` images/ ` with the naming convention *firstNameLastName.jpg*
+  - Adjust the `apiEndpoint` in your configuration files to point to your server
